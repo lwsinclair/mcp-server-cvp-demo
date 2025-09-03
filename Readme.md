@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/burnyd-mcp-server-cvp-demo-badge.png)](https://mseep.ai/app/burnyd-mcp-server-cvp-demo)
+
 # MCP-Server-Demo
 
 This is a quick demo of what is possible within MCP and Cloudvision portal.  This can be further found on my blog if interested at danielhertzberg.net
